@@ -1,5 +1,4 @@
 # alpaco
-===  
 
 
 This is a project of shinjung high school's alpaco team project  
